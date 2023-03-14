@@ -15,6 +15,5 @@ to add (maybe):
 
 - add links to post and page
 - better viewer?
-- click to display additional photos, or maybe make those into gifs if there are multiple
 - progress pie
-- maybe use https://ui.mantine.dev/ in the future
+- maybe use https://ui.mantine.dev/ in the future for more nav stuff? but idk kinda like the simplicity

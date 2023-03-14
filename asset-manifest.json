@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/a-bit-of-sky/static/css/main.d0361124.css",
-    "main.js": "/a-bit-of-sky/static/js/main.1037c3b5.js",
+    "main.js": "/a-bit-of-sky/static/js/main.7b2db702.js",
     "static/js/787.bea80282.chunk.js": "/a-bit-of-sky/static/js/787.bea80282.chunk.js",
     "static/media/1.gif": "/a-bit-of-sky/static/media/1.0beaee899658f1991320.gif",
     "static/media/0.jpg": "/a-bit-of-sky/static/media/0.d46dc7dac41baea7ff74.jpg",
-    "static/media/19a.jpg": "/a-bit-of-sky/static/media/19a.2943968ca540f1b22652.jpg",
     "static/media/7.jpg": "/a-bit-of-sky/static/media/7.f728508df1cdb64b2dac.jpg",
-    "static/media/18a.jpg": "/a-bit-of-sky/static/media/18a.fd8b7286d295031b13f3.jpg",
     "static/media/11.jpg": "/a-bit-of-sky/static/media/11.5da0c816d637de3936e0.jpg",
+    "static/media/18.gif": "/a-bit-of-sky/static/media/18.f2405e56a358a86099a9.gif",
     "static/media/5.jpg": "/a-bit-of-sky/static/media/5.47b89282ce0e4adbf46d.jpg",
+    "static/media/19.gif": "/a-bit-of-sky/static/media/19.e088d18d786b39043124.gif",
+    "static/media/6.gif": "/a-bit-of-sky/static/media/6.8abfc648a3058ee00c3b.gif",
     "static/media/15.jpg": "/a-bit-of-sky/static/media/15.66468e2c2a11a09757c3.jpg",
     "static/media/3.jpg": "/a-bit-of-sky/static/media/3.1768a54823dd5048cd2d.jpg",
     "static/media/4.jpg": "/a-bit-of-sky/static/media/4.956442e7877a200c679e.jpg",
     "static/media/CutiveMono-Regular.ttf": "/a-bit-of-sky/static/media/CutiveMono-Regular.0ca4da0b0a4342cac8d3.ttf",
     "static/media/14.jpg": "/a-bit-of-sky/static/media/14.9daea79a5273bf71d326.jpg",
     "static/media/8.jpg": "/a-bit-of-sky/static/media/8.c5c9d88e52db4195fc9a.jpg",
-    "static/media/6a.jpg": "/a-bit-of-sky/static/media/6a.a9bd492245cc29df8d30.jpg",
     "static/media/16.jpg": "/a-bit-of-sky/static/media/16.91a2fb43f447b11ab09b.jpg",
     "static/media/17.jpg": "/a-bit-of-sky/static/media/17.f2bad7f8b8061b04a568.jpg",
     "static/media/2.jpg": "/a-bit-of-sky/static/media/2.fcfe04b0308361d31fc6.jpg",
@@ -26,11 +26,11 @@
     "static/media/12.jpg": "/a-bit-of-sky/static/media/12.18baf5bb6ef78f785b3d.jpg",
     "index.html": "/a-bit-of-sky/index.html",
     "main.d0361124.css.map": "/a-bit-of-sky/static/css/main.d0361124.css.map",
-    "main.1037c3b5.js.map": "/a-bit-of-sky/static/js/main.1037c3b5.js.map",
+    "main.7b2db702.js.map": "/a-bit-of-sky/static/js/main.7b2db702.js.map",
     "787.bea80282.chunk.js.map": "/a-bit-of-sky/static/js/787.bea80282.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0361124.css",
-    "static/js/main.1037c3b5.js"
+    "static/js/main.7b2db702.js"
   ]
 }

@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.multiply {
+  mix-blend-mode: multiply;
+}
+
+img {
+  pointer-events: none;
+}

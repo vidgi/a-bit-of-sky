@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "CutiveMono";
+  src: local("CutiveMono"), url("./fonts/CutiveMono-Regular.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family: CutiveMono;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: black;
+  /* background-color: lightskyblue; */
+  /* font-size: 12px; */
+  /* text-transform: lowercase; */
+}

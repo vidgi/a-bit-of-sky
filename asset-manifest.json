@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/a-bit-of-sky/static/css/main.d0361124.css",
-    "main.js": "/a-bit-of-sky/static/js/main.7b2db702.js",
+    "main.js": "/a-bit-of-sky/static/js/main.e79e1183.js",
     "static/js/787.bea80282.chunk.js": "/a-bit-of-sky/static/js/787.bea80282.chunk.js",
     "static/media/1.gif": "/a-bit-of-sky/static/media/1.0beaee899658f1991320.gif",
     "static/media/0.jpg": "/a-bit-of-sky/static/media/0.d46dc7dac41baea7ff74.jpg",
@@ -9,6 +9,7 @@
     "static/media/11.jpg": "/a-bit-of-sky/static/media/11.5da0c816d637de3936e0.jpg",
     "static/media/18.gif": "/a-bit-of-sky/static/media/18.f2405e56a358a86099a9.gif",
     "static/media/5.jpg": "/a-bit-of-sky/static/media/5.47b89282ce0e4adbf46d.jpg",
+    "static/media/20.gif": "/a-bit-of-sky/static/media/20.52865043b6c8e85d29c8.gif",
     "static/media/19.gif": "/a-bit-of-sky/static/media/19.e088d18d786b39043124.gif",
     "static/media/6.gif": "/a-bit-of-sky/static/media/6.8abfc648a3058ee00c3b.gif",
     "static/media/15.jpg": "/a-bit-of-sky/static/media/15.66468e2c2a11a09757c3.jpg",
@@ -26,11 +27,11 @@
     "static/media/12.jpg": "/a-bit-of-sky/static/media/12.18baf5bb6ef78f785b3d.jpg",
     "index.html": "/a-bit-of-sky/index.html",
     "main.d0361124.css.map": "/a-bit-of-sky/static/css/main.d0361124.css.map",
-    "main.7b2db702.js.map": "/a-bit-of-sky/static/js/main.7b2db702.js.map",
+    "main.e79e1183.js.map": "/a-bit-of-sky/static/js/main.e79e1183.js.map",
     "787.bea80282.chunk.js.map": "/a-bit-of-sky/static/js/787.bea80282.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0361124.css",
-    "static/js/main.7b2db702.js"
+    "static/js/main.e79e1183.js"
   ]
 }

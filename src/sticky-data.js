@@ -20,6 +20,7 @@ import day17 from "./images/17.jpg";
 import day18 from "./images/18.gif";
 import day19 from "./images/19.gif";
 import day20 from "./images/20.gif";
+import day24 from "./images/24.gif";
 
 import { NoColor } from "./colored-sticky-styles";
 const ydist = 20;
@@ -170,6 +171,13 @@ export const StickyLinkData = [
     color: NoColor,
     image: day20,
     text: "Days 20-23/100 ☁️ - The days dissipate like water evaporating. A sidewalk puddle leaves an oil slick ring in its wake, the only evidence that it was there at all.",
-    position: { x: 20 * width, y: ydist + 50 },
+    position: { x: 20 * width, y: ydist },
+  },
+  {
+    key: 21,
+    color: NoColor,
+    image: day24,
+    text: "Day 24/100 ☁️ - Today the clouds are flowers preserved in wax paper. Spring, forgotten until petals fall from the pages of a book.",
+    position: { x: 21 * width, y: ydist + 50 },
   },
 ];
